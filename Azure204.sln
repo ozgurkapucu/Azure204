@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.438
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blob", "Blob\Blob.csproj", "{36D5385C-10BD-42C1-BFE2-DBAFDF1AF65E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignInAzureActiveDirectory", "SignInAzureActiveDirectory\SignInAzureActiveDirectory.csproj", "{3313A255-3DB9-434D-B457-763DE3DAB34A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{36D5385C-10BD-42C1-BFE2-DBAFDF1AF65E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36D5385C-10BD-42C1-BFE2-DBAFDF1AF65E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36D5385C-10BD-42C1-BFE2-DBAFDF1AF65E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3313A255-3DB9-434D-B457-763DE3DAB34A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3313A255-3DB9-434D-B457-763DE3DAB34A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3313A255-3DB9-434D-B457-763DE3DAB34A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3313A255-3DB9-434D-B457-763DE3DAB34A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
